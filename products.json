@@ -1,0 +1,104 @@
+
+
+[
+
+	{
+		
+		
+		"id": 1,
+		"name": "Flower Pot Stand",
+		"description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, a.",
+		"price": "$40.00",
+		"images": [
+			{
+				"url": "./IMG/flower_stand2.jpg",
+				"color": "#272727"
+			}
+		]
+	},
+
+	{
+		"id": 2,
+		"name": "Flower Pot",
+		"description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, a.",
+		"price": "$52.99",
+		"images": [
+			{
+				"url": "./IMG/flower_pot3.jpg",
+				"color": "#4F8196"
+			}
+		]
+	},
+
+	{
+		"id": 3,
+		"name": "Flower Bouquet",
+		"description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, a.",
+		"price": "$69.99",
+		"images": [
+			{
+				"url": "./IMG/bouquet2.jpg",
+				"color": "#E8E8E8"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Bunch of Flowers",
+		"description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, a.",
+		"price": "$60.00",
+		"images": [
+			{
+				"url": "./IMG/bunch.jpg",
+				"color": "#2C88B3"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Flower Pot",
+		"description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, a.",
+		"price": "$60.99",
+		"images": [
+			{
+				"url": "./IMG/flower_pot1.jpg",
+				"color": "#4F8196"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Flower Bouquet",
+		"description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, a.",
+		"price": "$40.00",
+		"images": [
+			{
+				"url": "./IMG/bouquet1.jpg",
+				"color": "#4F8196"
+			}
+		]
+	},{
+		"id": 7,
+		"name": "Flower Pot",
+		"description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, a.",
+		"price": "$52.99",
+		"images": [
+			{
+				"url": "./IMG/flower_pot2.jpg",
+				"color": "#4F8196"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Flower Pot Stand",
+		"description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, a.",
+		"price": "$70.99",
+		"images": [
+			{
+				"url": "./IMG/flower_stand1.jpg",
+				"color": "#4F8196"
+			}
+		]
+	}
+]
